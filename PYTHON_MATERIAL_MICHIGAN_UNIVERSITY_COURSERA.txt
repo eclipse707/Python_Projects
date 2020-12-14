@@ -1,0 +1,6 @@
+pYTHON MATERIAL FROM THE PY4E BOOK AND ALL COURSES DETAILS 
+https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)
+
+This chapter covers networking at a very high level. If you want to learn more, there is both a free book and a Coursera course that I would recommend:
+Introduction to Networking (free textbook)
+http://www.net-intro.com/
